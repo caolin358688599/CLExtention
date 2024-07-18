@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/MOSIEX000079/CLExtention'
+  s.homepage         = 'https://github.com/caolin358688599/CLExtention.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MOSIEX000079' => 'cao_lin@hoperun.com' }
-  s.source           = { :git => 'https://github.com/MOSIEX000079/CLExtention.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/caolin358688599/CLExtention.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'CLExtention/Classes/**/*'
   

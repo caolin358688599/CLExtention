@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let test = "1234"
+        print("testValue = \(test.intValue)")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

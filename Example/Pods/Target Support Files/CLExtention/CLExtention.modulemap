@@ -1,0 +1,6 @@
+framework module CLExtention {
+  umbrella header "CLExtention-umbrella.h"
+
+  export *
+  module * { export * }
+}

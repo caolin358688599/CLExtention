@@ -1,0 +1,22 @@
+{
+  "name": "CLExtention",
+  "version": "0.1.0",
+  "summary": "A short description of CLExtention.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MOSIEX000079/CLExtention",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MOSIEX000079": "cao_lin@hoperun.com"
+  },
+  "source": {
+    "git": "https://github.com/MOSIEX000079/CLExtention.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CLExtention/Classes/**/*"
+}
