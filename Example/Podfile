@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CLExtention_Example' do
+  pod 'CLExtention', :path => '../'
+
+  target 'CLExtention_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
